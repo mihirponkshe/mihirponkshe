@@ -44,7 +44,6 @@
 ### 🔥 About Me
 - 💡 Passionate about **Web Development, IoT, and AI**
 - 🛠️ Developed a **Fire Extinguisher & Rescue Robot** using Raspberry Pi & AI
-- 📚 Exploring **AR/VR in Education** & writing research papers
 - 🎤 **GDG Tech Lead**, organizing events & workshops to uplift tech communities
 
 ---
