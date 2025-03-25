@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: "Times New Roman", Times, serif;">
 
 ## 👋 Hi there, I'm Mihir Ponkshe!  
 ### 🚀 Enthusiastic Web Developer | IoT & AI Innovator | GDG Tech Lead  
@@ -63,9 +63,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MihirPonkshe&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirPonkshe&layout=compact&theme=radical" width="48%" />
 </div>
-
-<style>
-  * {
-    font-family: "Times New Roman", Times, serif;
-  }
-</style>
