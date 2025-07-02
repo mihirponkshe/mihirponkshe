@@ -1,7 +1,7 @@
-<div align="center" style="font-family: \"Times New Roman\", Times, serif;">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 ## 👋 Hi there, I'm Mihir Ponkshe!  
-### 🚀 Enthusiastic Web Developer | IoT & AI Innovator |Ex-GDG Tech Lead & Google Cloud Arcade Facilitator  
+### 🚀 Full-Stack Developer | IoT & AI Innovator | Ex-GDG Tech Lead | Google Cloud Arcade Facilitator  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirPonkshe&label=Profile%20Views&color=0e75b6&style=flat)  
 </div>
@@ -37,21 +37,58 @@
 #### 🤖 **IoT & AI:**
 <p align="center">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-### 🔥 About Me
-- 💡 Passionate about **Web Development, IoT, and AI**
-- 🛠️ Developed a **Fire Extinguisher & Rescue Robot** using Raspberry Pi & AI
-- 🎤 **GDG Tech Lead & Google Cloud Arcade Facilitator**, organizing events & workshops to uplift tech communities
+### 🔥 Projects
+
+- 🚒 **Resq’d** — Emergency service platform for Fire, Police, and Ambulance using Firebase & Next.js.
+- 🤖 **Autonomous Fire Extinguishing Robot** — Real-time fire detection and rescue using Raspberry Pi and TFLite.
+- 🚛 **Transportio** — Freight booking system for air, sea, and road shipments with Flask and MySQL.
+- 📚 **Book Store** — MERN stack app for book listing, cart, and authentication.
+
+---
+
+### 🏆 Certifications
+
+- C++ Language – Udemy (2023)
+- Data Science using Python – Brainovision (2024)
+- Web Development – Technophilia (2024)
+- Google Cloud Generative AI – GDG (2023–24)
+- Google Cloud Study Jams – GDG (2024–25)
+- SAP Certification (ML, IoT, DL) – SAP (2025)
+- Python Crash Course – 2024
+
+---
+
+### 🌟 Leadership & Community
+
+- 🧠 **GDG Tech Lead** – Led Python and JS campaigns, organized 3 hands-on workshops (200+ attendees).
+- 🌐 **Google Cloud Arcade Facilitator** – Managed 500+ participants in interactive cloud events.
+- 👩‍💻 **WOW Volunteer (2025)** – Volunteered at Pune’s largest GDG event with 800+ participants.
+- 🏏 **CORE Sports Secretary** – Organized 5+ inter-college tournaments with a 30% increase in participation.
+
+---
+
+### 📚 Achievements & Interests
+
+- 📜 **Research Author** – Published 3 ISO-certified papers, including one on YOLOv8 with TFLite.
+- 🎼 **Tabla** – Certified in Madhyama Pratham (Level 4) with distinction.
+- 🏏 **Sports** – Represented at district level in chess and cricket tournaments.
 
 ---
 
 ### 📬 Connect with Me
+
 <div align="center">
 <a href="https://www.linkedin.com/in/mihir-ponkshe-8b7664257">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/MihirPonkshe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
