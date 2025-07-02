@@ -1,7 +1,7 @@
 <div align="center" style="font-family: \"Times New Roman\", Times, serif;">
 
 ## 👋 Hi there, I'm Mihir Ponkshe!  
-### 🚀 Enthusiastic Web Developer | IoT & AI Innovator | GDG Tech Lead & Google Cloud Arcade Facilitator  
+### 🚀 Enthusiastic Web Developer | IoT & AI Innovator |Ex-GDG Tech Lead & Google Cloud Arcade Facilitator  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirPonkshe&label=Profile%20Views&color=0e75b6&style=flat)  
 </div>
