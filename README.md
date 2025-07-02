@@ -1,7 +1,7 @@
 <div align="center" style="font-family: \"Times New Roman\", Times, serif;">
 
 ## 👋 Hi there, I'm Mihir Ponkshe!  
-### 🚀 Enthusiastic Web Developer | IoT & AI Innovator |Ex-GDG Tech Lead & Google Cloud Arcade Facilitator  
+### 🚀 Full-Stack Developer | IoT & AI Innovator | Ex-GDG Tech Lead | Google Cloud Arcade Facilitator  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MihirPonkshe&label=Profile%20Views&color=0e75b6&style=flat)  
 </div>
@@ -37,20 +37,16 @@
 #### 🤖 **IoT & AI:**
 <p align="center">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
----
-
-### 🔥 About Me
-- 💡 Passionate about **Web Development, IoT, and AI**
-- 🛠️ Developed a **Fire Extinguisher & Rescue Robot** using Raspberry Pi & AI
-- 🎤 **GDG Tech Lead & Google Cloud Arcade Facilitator**, organizing events & workshops to uplift tech communities
-
----
 
 ### 📬 Connect with Me
 <div align="center">
 <a href="https://www.linkedin.com/in/mihir-ponkshe-8b7664257">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/MihirPonkshe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
