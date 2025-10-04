@@ -76,8 +76,3 @@
 </div>
 
 ---
-
-> _If you want, I can also:_
-> - reorder sections for a cleaner portfolio README,  
-> - add a Projects section with badges/links to your top repos, or  
-> - generate a compact version optimized for mobile/summary cards.
