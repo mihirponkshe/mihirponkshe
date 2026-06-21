@@ -1,78 +1,111 @@
-<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mihir+Ponkshe;Full-Stack+Developer;AI+%26+ML+Engineer;IoT+%26+Web3+Builder" alt="Typing SVG" />
+</h1>
 
-## 👋 Hi there, I'm Mihir Ponkshe!  
-### 🚀 Full-Stack Developer | IoT & AI Innovator | Ex-GDG Tech Lead | Google Cloud Arcade Facilitator  
-
-![Profile Views](https://komarev.com/ghpvc/?username=MihirPonkshe&label=Profile%20Views&color=0e75b6&style=flat)  
-</div>
-
----
-
-### 💻 Tech Stack
-
-#### 🖥️ **Programming & Scripting:**
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <b>🎓 Computer Engineer </b><br/>
+  🚀 Full-Stack &nbsp;·&nbsp; 🤖 AI/ML &nbsp;·&nbsp; 🔌 IoT &nbsp;·&nbsp; ⛓️ Web3
 </p>
 
-#### 🌐 **Web Development (Frontend & Fullstack):**
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-#### ⚙️ **Backend & APIs:**
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-4A154B?style=for-the-badge&logo=none&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-34495E?style=for-the-badge&logo=celery&logoColor=white" />
-</p>
-
-#### 🛢️ **Databases & ORMs:**
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
-
-#### 🤖 **IoT, ML & Computer Vision:**
-<p align="center">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=none&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <a href="mailto:mihirponkshe2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mihir-ponkshe-8b7664257">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MihirPonkshe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MihirPonkshe&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔭 Currently & Notable Work
-- Building IoT solutions using Raspberry Pi + camera modules (person detection, rescue features).  
-- Implemented YOLO-based object detection pipelines and deployed models with TensorFlow Lite for embedded inference.  
-- Backend work with FastAPI/Flask + PostgreSQL and Prisma for schema/ORM management.  
-- Asynchronous task processing using Celery for long-running jobs (e.g., model training / data processing).  
-- Full-stack apps with Next.js / React on the frontend and Node / Express / FastAPI on the backend.
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+Final-year B.E. Computer Engineering student at TCOER, Pune. I build end-to-end systems — from NLP pipelines and computer vision models to IoT firmware and blockchain DApps.
+
+- 🔭 Building AI-powered tools, full-stack apps & IoT systems
+- 🤖 Deploying CV models on edge devices with TensorFlow Lite
+- ⛓️ Exploring smart contracts, DApps & Web3 architecture
+- ☁️ GDG Tech Lead & Google Cloud Arcade Facilitator
+- 🎯 Passionate about real-world impact through scalable software
+
+<br/>
 
 ---
 
-### 📬 Connect with Me
-<div align="center">
-<a href="https://www.linkedin.com/in/mihir-ponkshe-8b7664257">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/MihirPonkshe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,solidity" />
+</p>
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,vite" />
+</p>
+
+### 🛠️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,prisma" />
+</p>
+
+### 🤖 AI / ML / Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5A0FC8?style=for-the-badge&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,raspberrypi,git,github,linux" />
+</p>
+
+### ⛓️ Blockchain / Web3
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Truffle-5E5086?style=for-the-badge&logoColor=white"/>
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirPonkshe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirPonkshe&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirPonkshe&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MihirPonkshe&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">⚡ <i>Building things that matter, one commit at a time.</i></p>
